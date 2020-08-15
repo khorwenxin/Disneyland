@@ -112,6 +112,7 @@ public class Customer{
         System.out.print("========================================");
         System.out.print("");
         //total payment needed to pay by the customer
+        //toString()
     }
     
     public static void Payment(){
@@ -137,7 +138,7 @@ public class Customer{
     }
     
     public static void Summary(){
-        //to String()
+        //to String() 
     }
 }
 
